@@ -1,0 +1,12 @@
+http://localhost/api/users
+Content-Type: application/json
+
+{
+  "fullName" : "Sarvar Sultonov",
+  "phoneNumber" : "+998900186969",
+  "password" : "Sarvar7535",
+  "home" : "29",
+  "city" : "Tashkent",
+  "street" : "Mirtemir"
+
+}
